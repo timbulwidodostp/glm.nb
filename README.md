@@ -1,6 +1,8 @@
 # glm.nb
 Fit a Negative Binomial Generalized Linear Model Use glm.nb With (In) R Software
 
+https://www.youtube.com/watch?v=Hv33lhUpzyk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
